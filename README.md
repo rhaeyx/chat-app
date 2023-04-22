@@ -12,3 +12,8 @@ Dependencies:
 - lucide-react (icons)
 - clsx (conditional class names)
 - tailwind-merge (merge tailwind classes, cleaner code)
+- upstash (for connecting to redis db)
+
+TODO:
+
+- Sample .env.local
